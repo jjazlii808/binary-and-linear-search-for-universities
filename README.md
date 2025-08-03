@@ -1,1 +1,2 @@
 # binary-and-linear-search-for-universities
+This C++ project implements a search system using both Binary Search and Linear Search algorithms to explore the 2023 QS World University Rankings dataset, which contains detailed information on over 1,400 universities worldwide. Users can search for a university by name or location, enabling quick and efficient retrieval of information depending on the chosen search method.
